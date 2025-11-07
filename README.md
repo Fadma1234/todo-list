@@ -1,22 +1,21 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# To do list
+<img width="1920"  alt="image" src="https://github.com/user-attachments/assets/b498d32c-dec6-4cb0-9f89-9310627b3a17" />
 
-### Goal: Build a Simple Todo List
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Description
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+This is a simple, interactive front-end to-do list application designed to help users manage their daily tasks efficiently. Users can add new tasks, mark tasks as complete, and delete tasks.
+
+## Features
+
+*   **Add New Tasks:** Easily add new tasks to your list.
+*   **Mark as Complete:** Toggle tasks between complete and incomplete states.
+*   **Delete Tasks:** Remove unwanted tasks from your list.
+*   **Persistent Storage (Optional):** If implemented, mention how data is stored (e.g., Local Storage).
+
+## Technologies Used
+
+*   HTML5
+*   CSS3
+*   JavaScript (or mention specific frameworks/libraries like React, Vue, Angular)
