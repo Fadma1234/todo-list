@@ -3,19 +3,15 @@
 
 
 
-## Description
 
 This is a simple, interactive front-end to-do list application designed to help users manage their daily tasks efficiently. Users can add new tasks, mark tasks as complete, and delete tasks.
 
-## Features
+### Tech Stack
+- HTML
 
-*   **Add New Tasks:** Easily add new tasks to your list.
-*   **Mark as Complete:** Toggle tasks between complete and incomplete states.
-*   **Delete Tasks:** Remove unwanted tasks from your list.
-*   **Persistent Storage (Optional):** If implemented, mention how data is stored (e.g., Local Storage).
+- CSS
+  
+- JavaScript
 
-## Technologies Used
-
-*   HTML5
-*   CSS3
-*   JavaScript (or mention specific frameworks/libraries like React, Vue, Angular)
+### Live Demo
+Click the link on the right under About to see the live demo.
